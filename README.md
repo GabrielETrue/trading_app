@@ -1,6 +1,7 @@
 # trading_app
 Tracking trading, creating models, and displaying results
 
+```
 trading_app/
 ├── .env.template
 ├── .gitignore
@@ -129,3 +130,4 @@ trading_app/
     ├── test_data_pipeline.py
     ├── test_models.py
     └── test_risk.py
+```
